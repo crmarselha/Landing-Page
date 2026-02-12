@@ -1,2 +1,2 @@
 # Landing-Page
-Primeiro site
+Primeiro site feito através do curso do Luiz Otávio
